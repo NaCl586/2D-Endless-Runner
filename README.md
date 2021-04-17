@@ -1,5 +1,5 @@
 # 2D-Endless-Runner
-Assignment 2 Course Game Programming Batch 4 DiLo Academy
+Assignment 3 Course Game Programming Batch 4 DiLo Academy
 
 Gerson Natanael (NaCl586) 
 
